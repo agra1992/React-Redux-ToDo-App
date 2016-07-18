@@ -1,1 +1,1 @@
-Boilerplate React App
+React ToDo App revamped with the Redux framework.
